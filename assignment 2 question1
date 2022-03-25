@@ -4,7 +4,7 @@
 
 int main()
 {
- execl("/usr/bin/pstree", "./pstree", 0);
+ execl("/usr/bin/ptree", "./ptree", 0);
 
  return 0;
 }
