@@ -4,7 +4,7 @@
 
 int main()
 {
-execl("/home/ameysystem/Downloads/linuxassignment2/main", "./main", 0);
+execl("/home/aaru/Downloads/linuxassg2/main", "./main", 0);
 
 return 0;
 }
